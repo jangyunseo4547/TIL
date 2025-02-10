@@ -57,3 +57,5 @@ console.log("hello!")
 
 # 대괄호 []
 - 대체 텍스트를 넣는 항목입니다. 
+
+[출처] (https://git-scm.com/book/ko/v2) 
