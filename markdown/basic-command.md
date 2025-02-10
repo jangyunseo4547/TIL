@@ -1,0 +1,59 @@
+# 1. 제목
+- 1~6개의 # 기호를 사용하여 제목 수준을 지정합니다. 
+
+
+## 예시 중제목
+
+
+# 2. 텍스트 스타일
+- 굵게 : **단어**
+- 기울임 : *단어*
+- 취소 : ~~단어~~
+- 굵고 기울게 : ***단어***
+
+
+# 3. 텍스트 인용
+
+> 인용구문
+> 여러줄도 가능합니다. 
+
+# 4. 코드 인용 
+
+- 인라인 코드 인용 => 이것은 `code` 입니다. 
+
+- 코드 블럭 
+```python
+def hello() :   
+    print("hello!")
+```
+
+```javascript
+console.log("hello!")
+```
+
+# 5. 링크
+- [구글](https://google.com)
+
+# 6. 이미지
+- ![부끄만두](data:image/png;base64,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)
+
+![갈색미피](../TIL/assets/갈색미피.jfif)
+
+# 7. 목록 
+
+## 순서있는 목록 
+1. 첫번째 
+2. 두번째
+3. 세번째
+
+## 순서없는 목록 
+- 첫번째
+    - 1-1
+    - 1-2 
+- 두번째 
+- 세번째
+
+[x] 할일목록 
+
+# 대괄호 []
+- 대체 텍스트를 넣는 항목입니다. 
