@@ -54,7 +54,7 @@ git 정의 : 어떤 부분을 개선했는지를 보여줌. 변화량을 지속�
 - 2) git commit -m "first commit"
 (이떄의 m은 메세지를 의미 : 어떤 변화가 생겼는지 적기)
 
-- 3) git config --global user.email or user.name ""
+- 3) git config --global user.email or global user.name ""
 (누가 하고자 하는지 정의 필요)
 
 ### git push origin master
