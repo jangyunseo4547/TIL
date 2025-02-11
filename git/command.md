@@ -30,8 +30,9 @@ git add . => 현재 나의 위치를 기준으로 모든 파일과 폴더
 - git add .
 - git commit
 - git esc i (insert 모드)
-- update files 
+- update files + shift " 누르기 
 - wq
+- git push origin master
 
 ## 알고 있어야 할 사항
 
