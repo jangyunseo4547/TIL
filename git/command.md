@@ -84,3 +84,5 @@ git remote remove {remote_name}
 
 ## git merge
 `git merge {target_branch_name}` : 현재 branch로 target_branch_name을 가져와서 병합
+
+
