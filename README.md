@@ -10,6 +10,8 @@ TIL(Todat I Learned)
 - ctrol l : 내역 삭제 
 - 위 화살표 : 히스토리 볼수 있음.
 
+### 2/11 (월)
+
 ### 1. 끝말잇기
 ```
 - git init (한번만 하면 됨)
@@ -68,6 +70,6 @@ reword, esc shitf + :  / 원하는 메시지 고치기 / wq
 git rebase -i HEAD~3 (위에서 세번째) 
 ```
 
-### 다른 사람 레퍼지토리 가져오기
+### 다른 사람 레퍼지토리 가져오기 (다른사람 github에 있는 코드, 내용 그대로 가져오고 싶을때)
 - fork -> git bash -> git clone url
 
